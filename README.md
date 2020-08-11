@@ -23,8 +23,7 @@
 
 >  Classic game tic-tac-toe built with React. 
 
-Landing Page:
-![screenshot](./assets/screenshot1.png)
+![screenshot](./screenshot.png)
 
 ## Built With
 
@@ -69,7 +68,7 @@ Landing Page:
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/javitocor/Weather-App-JS/issues).
+Feel free to check the [issues page](https://github.com/javitocor/Tic-Tac-Toe-React/issues).
 
 ## Show your support
 
@@ -87,11 +86,11 @@ This project is [MIT](lic.url) licensed.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/javitocor/Weather-App-JS.svg?style=flat-square
-[contributors-url]: https://github.com/javitocor/Weather-App-JS/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/javitocor/Weather-App-JS.svg?style=flat-square
-[forks-url]: https://github.com/javitocor/Weather-App-JS/network/members
-[stars-shield]: https://img.shields.io/github/stars/javitocor/Weather-App-JS.svg?style=flat-square
-[stars-url]: https://github.com/javitocor/Weather-App-JS/stargazers
-[issues-shield]: https://img.shields.io/github/issues/javitocor/Weather-App-JS.svg?style=flat-square
-[issues-url]: https://github.com/javitocor/Weather-App-JS/issues
+[contributors-shield]: https://img.shields.io/github/contributors/javitocor/Tic-Tac-Toe-React.svg?style=flat-square
+[contributors-url]: https://github.com/javitocor/Tic-Tac-Toe-React/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/javitocor/Tic-Tac-Toe-React.svg?style=flat-square
+[forks-url]: https://github.com/javitocor/Tic-Tac-Toe-React/network/members
+[stars-shield]: https://img.shields.io/github/stars/javitocor/Tic-Tac-Toe-React.svg?style=flat-square
+[stars-url]: https://github.com/javitocor/Tic-Tac-Toe-React/stargazers
+[issues-shield]: https://img.shields.io/github/issues/javitocor/Tic-Tac-Toe-React.svg?style=flat-square
+[issues-url]: https://github.com/javitocor/Tic-Tac-Toe-React/issues
