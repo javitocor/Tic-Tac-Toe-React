@@ -33,10 +33,6 @@
 - NPM
 - REACT
 
-## Live Demo
-
-[Live Demo Link]() :point_left:
-
 ## Getting Started
 - Follow the live demo link and enjoy playing tic-tac-toe.
 
